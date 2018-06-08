@@ -12,3 +12,7 @@
 1.  执行 `heroku create`, heroku 会为我们随机取一个应用名字，并提供一个 git 仓库给我们
 1.  执行 `git push heroku master`
 1.  push 完成后，在命令键入 `heroku open`, 则 heroku 会自动打开浏览器带我们去到相应的网址
+
+## Address
+
+https://thawing-forest-60472.herokuapp.com/
